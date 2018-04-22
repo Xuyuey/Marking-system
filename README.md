@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 # judgement
 
-> FoArcing dancing scoring system
+> For a dance marking system
 
 ## Build Setup
 
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# Marking-system
+A marking system for street dance
+>>>>>>> b45035cf719df03f7eee1ec4efc742d57305d99d
